@@ -1,6 +1,3 @@
-__author__ = "lliu12, linhgao"
-__version__ = "1.0.0"
-
 from airflow.models import DagBag, DagModel
 from airflow.plugins_manager import AirflowPlugin
 from airflow.www.app import csrf
